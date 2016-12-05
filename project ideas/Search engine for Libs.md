@@ -22,7 +22,6 @@ Then the user is taken to the lib detail page
 Given the user is on the lib detail page
 Then the user can list a list of similar libs ranked by popularity 
 
-
 # Implementation
 
 ## Authority
